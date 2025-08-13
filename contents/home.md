@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![邵铭塬](https://img.shields.io/badge/邵铭塬-github-blue?logo=github)](https://github.com/WestdoorSad)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Doctor in the School of Electronic Science and Engineering at Xiamen University.
+
+他正于厦门大学电子科学与技术学院电子工程系就读博二,隶属于齐洁课题组。
 
 #### Contact
-
-Email: senli[at]fas.harvard.edu
-
+Email: shaomy666[at]stu.xmu.edu.cn
+Wx: 18060952375
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD Student, Electronic Science and Technology, Xiamen University, 2024—Present.
+M.E., Artificial intelligence, Xiamen University, 2022—2024.(硕博连读)\
+B.E., Software Engineering, Hangzhou Dianzi University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Automatic Modulation Recognition, Specific Emitter Identification, Underwater Acoustic Target Recognition, Continuous Learning.
 

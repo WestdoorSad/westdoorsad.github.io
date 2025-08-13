@@ -1,16 +1,23 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>M. Shao</strong>, D. Li, S. Hong*, J. Qi and H. Sun (2024). IQFormer: A Novel Transformer-Based Model With Multi-Modality Fusion for Automatic Modulation Recognition. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2024.3485118) [[Code]](https://github.com/WestdoorSad/IQFormer)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>M. Shao</strong>, Z. Fu, D. Li, F. Zhang, Y. Cai, S. Hong, L. Cao, Y. Peng and J. Qi* (2025). STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2025.3598243) [[Code]](https://github.com/WestdoorSad/STF-GCN)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>M. Shao</strong>, Z. Song, X. Liang, F. Zhang, D. Li, S. Hong, L. Cao, Y. Peng and J. Qi* (2025). SWLC-Conformer: An Efficient and Secure Hybrid Architecture for Specific Emitter Identification. <strong>IEEE Internet of Things Journal</strong>.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- D. Li, <strong>M. Shao</strong>, P. Deng, S. Hong*, J. Qi and H. Sun (2024). A Self-Supervised-Based Approach of Specific Emitter Identification for the Automatic Identification System. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2024.3476491)
+  
+- Y. Lei, D. Li, <strong>M. Shao</strong>, S. Hong* and H. Sun (2025). CoSwinVIT: A Vision Transformer for Enhanced Uniform Spectrum Response in Specific Emitter Identification. <strong>IEEE Transactions on Information Forensics and Security</strong>. [[Paper]](https://doi.org/10.1109/TIFS.2025.3565999)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Z. Fu, J. Wang, <strong>M. Shao</strong>, D. Li, S. Hong* and H. Sun (2025). IQGCA: A Lightweight Graph Structure of I/Q Signal for Automatic Modulation Recognition. <strong>IEEE Transactions on Vehicular Technology</strong>. [[Paper]](https://doi.org/10.1109/TVT.2025.3591935)
+
+- D. Li, Z. Chen, <strong>M. Shao</strong>, X. Chen, S. Hong*, J. Qi and H. Sun (2025). Non-Exemplar Class-Incremental Learning via Prototype Correction and Hierarchical Regularization for Specific Emitter Identification. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>. [[Paper]](https://doi.org/10.1109/TITS.2025.3559174)
+
+- Y. Cai, D. Li, S. Wu, <strong>M. Shao</strong>, S. Hong* and H. Sun (2025). SSCL-AMC: A Self-supervised Automatic Modulation Classification Method via Dynamic Augmentation and Ensemble Learning. <strong>ICASSP(CCF-B)</strong>. [[Paper]](https://doi.org/10.1109/ICASSP49660.2025.10890093)
+
+- Y. Cai, D. Li, S. Wu, <strong>M. Shao</strong>, S. Hong, J. Qi* and H. Sun (2025). Secure and Intelligent Sensing in Unmanned Aerial Vehicles: A Semi-Supervised Modulation Recognition Framework. <strong>IEEE Sensors Journal</strong>. [[Paper]](https://doi.org/10.1109/JSEN.2024.3521502)
+
+- D. Li, X. Chen, <strong>M. Shao</strong>, P. Deng, S. Hong*, and H. Sun (2024). Smart Secure Authentication Sensing for Maritime Traffic: Sensor Individual Recognition Perspective. <strong>IEEE Sensors Journal</strong>. [[Paper]](https://doi.org/10.1109/JSEN.2024.3414862)
+
 

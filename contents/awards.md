@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### 杭电 HDU
+- 浙江省省政府奖学金(Zhejiang Province Government Scholarships), 2018-2019.
+- 浙江省省政府奖学金(Zhejiang Province Government Scholarships), 2020-2021.
+- 杭州电子科技大学优秀毕业生(Outstanding graduates from HDU), 2022
 
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+#### 厦大 XMU
+- 待续
