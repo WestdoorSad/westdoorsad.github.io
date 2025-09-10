@@ -5,4 +5,4 @@
 - 杭州电子科技大学优秀毕业生(Outstanding graduates from HDU), 2022
 
 #### 厦大 XMU
-- 待续
+- 优秀三好学生, 2024-2025.

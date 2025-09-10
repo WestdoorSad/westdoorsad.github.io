@@ -10,7 +10,7 @@ He is currently a Doctor in the School of Electronic Science and Engineering at 
 Email: shaomy666[at]stu.xmu.edu.cn
 Wx: 18060952375
 #### Education
-PhD Student, Electronic Science and Technology, Xiamen University, 2024—Present.
+PhD Student, Electronic Science and Technology, Xiamen University, 2024—Present.\
 M.E., Artificial intelligence, Xiamen University, 2022—2024.(硕博连读)\
 B.E., Software Engineering, Hangzhou Dianzi University, 2018—2022.
 

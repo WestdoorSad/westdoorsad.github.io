@@ -7,7 +7,9 @@
 - <strong>M. Shao</strong>, Z. Song, X. Liang, F. Zhang, D. Li, S. Hong, L. Cao, Y. Peng and J. Qi* (2025). SWLC-Conformer: An Efficient and Secure Hybrid Architecture for Specific Emitter Identification. <strong>IEEE Internet of Things Journal</strong>.
 
 - D. Li, <strong>M. Shao</strong>, P. Deng, S. Hong*, J. Qi and H. Sun (2024). A Self-Supervised-Based Approach of Specific Emitter Identification for the Automatic Identification System. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2024.3476491)
-  
+
+- L. Qiwang, <strong>M. Shao</strong>, Y. Cai, D. Li, S. Hong*, J. Qi and H. Sun (2025). Robust Specific Emitter Identification under Label Noise and Quantity Limitations in Intelligent Transportation Systems. <strong>IEEE Transactions on Intelligent Transportation Systems</strong>.
+
 - Y. Lei, D. Li, <strong>M. Shao</strong>, S. Hong* and H. Sun (2025). CoSwinVIT: A Vision Transformer for Enhanced Uniform Spectrum Response in Specific Emitter Identification. <strong>IEEE Transactions on Information Forensics and Security</strong>. [[Paper]](https://doi.org/10.1109/TIFS.2025.3565999)
 
 - Z. Fu, J. Wang, <strong>M. Shao</strong>, D. Li, S. Hong* and H. Sun (2025). IQGCA: A Lightweight Graph Structure of I/Q Signal for Automatic Modulation Recognition. <strong>IEEE Transactions on Vehicular Technology</strong>. [[Paper]](https://doi.org/10.1109/TVT.2025.3591935)
