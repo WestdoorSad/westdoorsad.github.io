@@ -7,7 +7,7 @@ He is currently a Doctor in the School of Electronic Science and Engineering at 
 他正于厦门大学电子科学与技术学院电子工程系就读博二,隶属于齐洁课题组。
 
 #### Contact
-Email: shaomy666[at]stu.xmu.edu.cn
+Email: shaomy666@stu.xmu.edu.cn
 Wx: 18060952375
 #### Education
 PhD Student, Electronic Science and Technology, Xiamen University, 2024—Present.\
