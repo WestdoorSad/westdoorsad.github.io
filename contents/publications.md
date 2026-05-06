@@ -2,6 +2,8 @@
 
 - <strong>M. Shao</strong>, D. Li, S. Hong*, J. Qi and H. Sun (2024). IQFormer: A Novel Transformer-Based Model With Multi-Modality Fusion for Automatic Modulation Recognition. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2024.3485118) [[Code]](https://github.com/WestdoorSad/IQFormer)
 
+- <strong>M. Shao</strong>, D. Li, S. Hong*, J. Qi and H. Sun (2024). DDNet: A Dual-Driven Meta-Learning Framework for Few-Shot Modulation Recognition under Varying SNR Conditions. <strong>IEEE Transactions on Communications</strong>. [[Paper]](https://doi.org/10.1109/TCOMM.2026.3689217) [[Code]](https://github.com/WestdoorSad/DDNet)
+- 
 - <strong>M. Shao</strong>, Z. Fu, D. Li, F. Zhang, Y. Cai, S. Hong, L. Cao, Y. Peng and J. Qi* (2025). STF-GCN: A Multi-Domain Graph Convolution Network Method for Automatic Modulation Recognition via Adaptive Correlation. <strong>IEEE Transactions on Cognitive Communications and Networking</strong>. [[Paper]](https://doi.org/10.1109/TCCN.2025.3598243) [[Code]](https://github.com/WestdoorSad/STF-GCN)
 
 - <strong>M. Shao</strong>, Z. Song, X. Liang, F. Zhang, D. Li, S. Hong, L. Cao, Y. Peng and J. Qi* (2025). SWLC-Conformer: An Efficient and Secure Hybrid Architecture for Specific Emitter Identification. <strong>IEEE Internet of Things Journal</strong>.
